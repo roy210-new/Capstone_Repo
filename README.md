@@ -114,27 +114,6 @@ The Google Data Studio dashboard provides an interactive view of:
 
 ---
 
-## How to Run
-
-1. Clone this repository:
-
-```
-git clone https://github.com/your-username/technology-trends-analysis.git
-```
-
-2. Install required libraries:
-
-```
-pip install -r requirements.txt
-```
-
-3. Open notebooks in Jupyter Notebook or JupyterLab:
-
-```
-jupyter notebook
-```
-
----
 
 ## Author
 
